@@ -1,0 +1,24 @@
+body {
+    background-color: #a9a9a9;
+}
+.main-row{
+    height: 100vh;
+}
+.main-col{
+    max-width: 500px;
+    min-height: 300px;
+}
+.todo-done{
+    text-decoration: line-through;
+}
+.shadow {
+    border-radius: 30px;
+    border: 2px solid rgb(63, 60, 60);
+}
+.bg-primary{
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.form-control,.btn{
+    border-radius: 10px;
+}
